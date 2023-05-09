@@ -2,12 +2,11 @@
 Table of Contents
 - [Description](#description)
 - [Screenshot](#screenshot)
-- [Technologies-Used](#technologies-used)
-- [How-to-Use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 - [Questions](#license)
 - [Credits](#credits)
+- [Deployed-Application](#deployed-application)
 
 # Description
 A Note Taker that can be used to write and save notes.<br>
@@ -16,10 +15,7 @@ USER STORY: As a small business owner, I want to be able to write and save notes
 so that I can organize my thoughts and keep track of tasks I need to complete.
 
 # Screenshot
-
-# Technologies-Used
-
-# How-to-Use
+![Alt text](Assets/Screenshot%202023-05-08%20at%208.52.27%20PM.png)
 
 # Contributions
 At the moment, this project does not need any contributions.
@@ -35,3 +31,5 @@ You can also get a hold of me through my [GitHub](https://github.com/itsrayito) 
 This application was made by Rayito Aguirre <br><br>
 Lecture videos and class sessions on Express.js provided by Rice University Coding Bootcamp in partnership with edX.<br><br>
 
+# Deployed-Application
+Deployed application on Heroku: https://note-taker-ra.herokuapp.com/ 
