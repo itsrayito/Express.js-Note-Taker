@@ -30,6 +30,7 @@ You can also get a hold of me through my [GitHub](https://github.com/itsrayito) 
 # Credits
 This application was made by Rayito Aguirre <br><br>
 Lecture videos and class sessions on Express.js provided by Rice University Coding Bootcamp in partnership with edX.<br><br>
+Starting code was made by [Xander Rapstine](https://github.com/Xandromus), [John McCambridge](https://github.com/nol166), & [George](https://github.com/Georgeyoo) and provided to us by Rice University to clone.
 
 # Deployed-Application
 Deployed application on Heroku: https://note-taker-ra.herokuapp.com/ 
